@@ -1,0 +1,5 @@
+com\AML2A\Rest_api\controller\StudentController.class
+com\AML2A\Rest_api\model\Student.class
+com\AML2A\Rest_api\RestApiApplication.class
+com\AML2A\Rest_api\repository\StudentRepository.class
+com\AML2A\Rest_api\service\StudentService.class
